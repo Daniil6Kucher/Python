@@ -10,3 +10,6 @@ for letter in word:
         count += 1
 
 print("Кількість входжень:", count)
+
+word = input("Введіть рядок:")
+print("Введіть ваше запрошенння")
